@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Merhaba ben Furkan! Sakarya Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim
+Backend, Frontent ve RestAPI alanlarında kendimi geliştirmekteyim. Öğrenmeye açığım ve yeni teknolojileri yakından tekip ediyorum.
+Şu an aktif olarak Angular öğreniyorum ve HTML CSS BOOTSTRAP ve Webpack kullanarak web siteleri geliştiriyorum.
+Yazılıma ilk başladığım zamandan bu yana çok fazla şey öğrenmiş olsamda hala bilmediğim birçok şey var ve bu konuları araştırmak, öğrenmek ve uygulamak şu andaki en büyük tutkum.
+Yazılımdan zaman buldukça spor yapıyorum ve film izliyorum.
+
+
 <!--
 **furkanbastan/furkanbastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
