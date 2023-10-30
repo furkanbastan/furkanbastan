@@ -12,7 +12,8 @@ const meeting = () => {
 🎓 I graduated from Sakarya University with a bachelor's degree. <br>
 💻 I work as a Full Stack Developer. <br>
 </div>
-
+<br>
+<br>
 <div  align="center">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="30" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="30" height="30" /></a>
@@ -30,7 +31,8 @@ const meeting = () => {
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /></a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" /><a>
 </div>
-
+<br>
+<br>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
 <div>Follow Me:</div>
 <div style="display: flex; justify-content: center; gap: 4px;">
