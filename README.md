@@ -5,15 +5,15 @@ const meeting = () => {
     return "Hi, my name is Furkan Baştan!";
 }
 ```
-<div style="display: flex; align-items: center; flex-direction: column; gap: 15px;">
+<div style="display:grid; grid-template-columns: 1fr 1fr;">
 
-<div>
+<div  align="center">
 💻 I'm a Software Engineer. <br>
 🎓 I graduated from Sakarya University with a bachelor's degree. <br>
 💻 I work as a Full Stack Developer. <br>
 </div>
 
-<p>
+<div  align="center">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="30" height="30" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="30" height="30" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg" alt="javascript" width="30" height="30" /></a>
@@ -29,9 +29,9 @@ const meeting = () => {
 <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30" /></a><a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" /></a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" /></a>
 <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30" /><a>
-</p>
+</div>
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
 <div>Follow Me:</div>
 <div style="display: flex; justify-content: center; gap: 4px;">
 <a href="https://tr.linkedin.com/in/furkan-ba%C5%9Ftan-88091a255" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30" /> </a>
