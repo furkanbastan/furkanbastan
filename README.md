@@ -8,7 +8,7 @@ const detail = () => {
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
 
 <div  align="center">
-💻 I'm a Software Engineer. <br>
+💻 I'm a Computer Engineer. <br>
 🎓 I graduated from Sakarya University with a bachelor's degree. <br>
 💻 I work as a Full Stack Developer. <br>
 </div>
