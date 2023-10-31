@@ -1,7 +1,7 @@
 ### Hi everyone
 
 ```javascript
-const meeting = () => {
+const detail = () => {
     return "Hi, my name is Furkan Baştan!";
 }
 ```
